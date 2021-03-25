@@ -1,4 +1,4 @@
-package com.amit.phonebook;
+package ToolsQA;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
