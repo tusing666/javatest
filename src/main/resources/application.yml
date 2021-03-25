@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: PharmaAssist REST Application
+
+#server:#  port: 8080
+    
+server:
+  port: ${PORT:8080}
